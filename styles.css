@@ -29,3 +29,8 @@ body {
 .cart-item button {
   margin-left: 10px;
 }
+
+.delete-button {
+    color: red;
+    margin-left: 1rem;
+}
