@@ -32,5 +32,8 @@ body {
 
 .delete-button {
     color: red;
+}
+
+.edit-button, .delete-button {
     margin-left: 1rem;
 }
